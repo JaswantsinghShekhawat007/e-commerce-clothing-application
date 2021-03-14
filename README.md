@@ -1,1 +1,2 @@
 # e-commerce-clothing-application
+initially commiting changes to master branch then the final project will be pushed to main.

@@ -2,3 +2,8 @@ body {
     font-family: 'Permanent Marker', cursive;
     padding: 20px 60px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
